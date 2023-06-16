@@ -6,3 +6,4 @@ class ChangeTasksNameLimit30 < ActiveRecord::Migration[5.2]
     change_column :tasks, :name, :string
   end
 end
+
