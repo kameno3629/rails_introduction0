@@ -65,3 +65,7 @@ gem 'slim-rails', '3.1.3'
 gem 'html2slim'
 gem 'bootstrap', '~> 4.6'
 gem 'rails_autolink'
+gem 'rspec-rails', '~> 3.7'
+gem 'factory_bot_rails', '~> 4.11'
+
+
