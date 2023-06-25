@@ -12,7 +12,12 @@ ja:
     attributes:
       task:
         id: ID
-        name: 名称
+        name: 名前
+        description: 詳しい説明
+        mail: メールアドレス
+        admin: 管理者権限
+        password: パスワード
+        password_confirmation: パスワード（確認）
         destription: 詳しい説明
         created_at: 登録日時
         updated_at: 更新日時
