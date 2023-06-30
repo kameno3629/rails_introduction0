@@ -12,7 +12,7 @@ ja:
     attributes:
       task:
         id: ID
-        name: 名前
+        name: 名称
         description: 詳しい説明
         mail: メールアドレス
         admin: 管理者権限
